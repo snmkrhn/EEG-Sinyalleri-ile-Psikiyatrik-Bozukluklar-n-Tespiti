@@ -1,4 +1,4 @@
-# EEG-Sinyalleri-ile-Psikiyatrik-Bozukluklar-n-Tespiti
+EEG Tabanlı Psikiyatrik Bozuklukların Sınıflandırılmasında Çok Görevli Vision Transformer Yaklaşımı
 Bu proje, EEG (Elektroensefalografi) sinyalleri kullanarak psikiyatrik bozuklukların tespit edilmesini amaçlamaktadır. EEG, beynin elektriksel aktivitelerini ölçen bir tekniktir ve bu projede, psikiyatrik bozuklukları (örneğin, depresyon, anksiyete, şizofreni) sınıflandırmak için EEG verileri üzerinde analiz yapılmaktadır.
 
 📌 Proje Hakkında
